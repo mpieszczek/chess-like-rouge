@@ -1,0 +1,14 @@
+.vs
+Build
+Library
+Logs
+obj
+Packages
+ProjectSettings
+Assembly-CSharp.csproj
+MyRougelike.sln
+
+Assets/Animations
+Assets/Fonts
+Assets/Sprites
+Assets/TextMesh Pro
